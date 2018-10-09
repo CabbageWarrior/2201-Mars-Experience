@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5edf755b62361745a1ffee3f9af7bc6, type: 3}
+  m_Name: Ciclo Riattivamento Corrente_Riattivamento Corrente_Hint 1.3.2
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 0a9aea8104db7ca48838519b9e8a1a0d, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Riattivamento Corrente_Riattivamento
+    Corrente_Hint 1.3.2.asset
+  Name: Hint 1.3.2
+  Childs:
+  - {fileID: 11400000, guid: a1da5a79aeea9064a8263a6bf9992f71, type: 2}
+  - {fileID: 11400000, guid: 380bd4782cb803c489610b474e1221f9, type: 2}
+  - {fileID: 11400000, guid: 7cd2f632070d8094bba51f7542ceb694, type: 2}

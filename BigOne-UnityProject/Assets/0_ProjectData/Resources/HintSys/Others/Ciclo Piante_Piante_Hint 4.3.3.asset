@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5edf755b62361745a1ffee3f9af7bc6, type: 3}
+  m_Name: Ciclo Piante_Piante_Hint 4.3.3
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: b53aff05a6f6d1f4795733ad1e3483e5, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Piante_Piante_Hint 4.3.3.asset
+  Name: Hint 4.3.3
+  Childs:
+  - {fileID: 11400000, guid: 4038fcad20653b4488dbd7d9a5fb5cdf, type: 2}
+  - {fileID: 11400000, guid: 3ad352c57706a6343898e707822a9655, type: 2}
+  - {fileID: 11400000, guid: f9d9b925504bb4945b26bcb054c0843e, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5edf755b62361745a1ffee3f9af7bc6, type: 3}
+  m_Name: Ciclo tr1_tr1_Hint 5.1.1
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 9372102dc3b6a074aaae42121ab2e53c, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo tr1_tr1_Hint 5.1.1.asset
+  Name: Hint 5.1.1
+  Childs:
+  - {fileID: 11400000, guid: 69fce162afae9fe4e8c5e5240b8b341a, type: 2}
+  - {fileID: 11400000, guid: 1d5d2901849c81e46a691a6ab89d4e9f, type: 2}
+  - {fileID: 11400000, guid: 03ba3c473bcc9a846b29e2a68f8e663d, type: 2}

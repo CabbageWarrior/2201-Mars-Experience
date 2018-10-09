@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0c68176e4a18754ea782fef390b4a65, type: 3}
+  m_Name: Ciclo Clorofilla_Clorofilla
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: ac551fbea48222a45a6738ca296a8e65, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Clorofilla_Clorofilla.asset
+  Name: Clorofilla
+  Childs:
+  - {fileID: 11400000, guid: e1a8a96463a90f2459f0ead9a6f253dd, type: 2}
+  - {fileID: 11400000, guid: 7752a9eaaffdc5a4cb2357d5ddffc5e9, type: 2}
+  - {fileID: 11400000, guid: ed4be332d1746a44b98134fe390387a1, type: 2}
+  - {fileID: 11400000, guid: 87ff34d4a7095b74c9a12bc9c6c7cfea, type: 2}

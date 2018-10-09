@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo Clorofilla_Clorofilla_Hint 4.4.1_Generic
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: e1a8a96463a90f2459f0ead9a6f253dd, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Clorofilla_Clorofilla_Hint
+    4.4.1_Generic.asset
+  Name: Generic
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: 2109b15c5de98fd41bfffe821cfdfa5c, type: 3}
+  EventRef: event:/MARIA/Hints/4.4.1/1
+  Text: Look around

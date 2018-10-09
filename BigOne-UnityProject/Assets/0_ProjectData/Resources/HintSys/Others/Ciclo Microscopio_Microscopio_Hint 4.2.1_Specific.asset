@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo Microscopio_Microscopio_Hint 4.2.1_Specific
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 8aa4ba95526a7fa44a50b3fcb2e11d2f, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Microscopio_Microscopio_Hint
+    4.2.1_Specific.asset
+  Name: Specific
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: fe9d22ba264438a4690be9aba708526a, type: 3}
+  EventRef: event:/MARIA/Hints/4.2.1/3
+  Text: "Uhm\u2026 It will probably stay locked as long as the word is \u201Ccloze\u201D.
+    It should open if you set the word to \u201Copen\u201D"

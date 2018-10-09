@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e17dfae6dbcd0c74c99588e7693f1057, type: 3}
+  m_Name: HintsData
+  m_EditorClassIdentifier: 
+  m_HintCycles:
+  - {fileID: 11400000, guid: a6d2a3fa69a02aa40a8da1a827c2d485, type: 2}
+  - {fileID: 11400000, guid: 33d48a6db730c1b4c8654201b742e8e7, type: 2}
+  - {fileID: 11400000, guid: 889852e90bbc793478f3f6ee251894aa, type: 2}
+  - {fileID: 11400000, guid: a06dd61559aae6149a25e0ba31712f83, type: 2}
+  - {fileID: 11400000, guid: 512c213e67f5f8a479360a12e550d295, type: 2}
+  - {fileID: 11400000, guid: 2b42eaa165fd9cd40aa51b53dd719399, type: 2}
+  - {fileID: 11400000, guid: 7546069e775848348972adb5c6663244, type: 2}
+  - {fileID: 11400000, guid: ac551fbea48222a45a6738ca296a8e65, type: 2}
+  - {fileID: 11400000, guid: f0eebbda31cb3954fbbefe6003714996, type: 2}
+  - {fileID: 11400000, guid: a7fd3118b45977d43a2ca687196fda9f, type: 2}
+  - {fileID: 11400000, guid: 774d9e90b238b9d40bb8026943242197, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aeccccd9357665408f62b65052bbe33, type: 3}
+  m_Name: Log 6.4
+  m_EditorClassIdentifier: 
+  SpeakerName: Porter
+  Text: "w[0.5] But since it might have seemed a bit rude at first, I\u2019ve also
+    set up a little treasure hunt, let's say.\r\nIt will keep them busy for a while,
+    until I\u2019ll find a way to get back\u2026 Or at least I hope so. w[0.5]"
+  AudioRef: event:/Audio Log Professor Porter/AudioLog Professore/Log6.4
+  Duration: 15
+  IsExecuted: 1

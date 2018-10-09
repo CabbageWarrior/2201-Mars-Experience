@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo Piante_Piante_Hint 4.3.3_Medium
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 169df9633310e6348917dff724b46938, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Piante_Piante_Hint 4.3.3_Medium.asset
+  Name: Medium
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: d765a359bac47aa49a2c8e10597a6daa, type: 3}
+  EventRef: event:/MARIA/Hints/4.3.3/2
+  Text: Look around, maybe the card needs to be inserted in a device around

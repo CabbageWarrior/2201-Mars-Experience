@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo Riparazione Condotti_Riparazione Condotti_Hint 2.1.2_Specific
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: d84ebf1d731d3304a80ec7e4a3ac8577, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Riparazione Condotti_Riparazione
+    Condotti_Hint 2.1.2_Specific.asset
+  Name: Specific
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: 69c8aec49416d8c4586ec89194faec09, type: 3}
+  EventRef: event:/MARIA/Hints/2.1.2/3
+  Text: "Uhm\u2026 The color and the numbers match the drawers under the plants. Go
+    and find out what\u2019s inside"

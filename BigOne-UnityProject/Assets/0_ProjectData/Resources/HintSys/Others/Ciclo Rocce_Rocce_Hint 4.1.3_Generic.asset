@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo Rocce_Rocce_Hint 4.1.3_Generic
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: efbbea08c8b172446bac2b2427d0a6f7, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Rocce_Rocce_Hint 4.1.3_Generic.asset
+  Name: Generic
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: a66a8a8fa475b0649b2b0be4ca8aed91, type: 3}
+  EventRef: event:/MARIA/Hints/4.1.3/1
+  Text: Connect all the globes with ties on the monitor

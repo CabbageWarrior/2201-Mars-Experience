@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aeccccd9357665408f62b65052bbe33, type: 3}
+  m_Name: Laboratory
+  m_EditorClassIdentifier: 
+  SpeakerName: Porter
+  Text: "w[0.5] That\u2019s Incredible. To be honest, I\u2019ve never thought that
+    someone else would have made it to my laboratory.\r\nYou might be one of the people
+    with the highest I.Q. on Mars, well, beside me of course, but let\u2019s see if
+    you can solve my hardest riddle.\r w[0.5]\n"
+  AudioRef: event:/Audio Log Professor Porter/Messaggi Professore/Mess4
+  Duration: 7
+  IsExecuted: 1

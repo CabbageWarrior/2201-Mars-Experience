@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5edf755b62361745a1ffee3f9af7bc6, type: 3}
+  m_Name: Ciclo Clorofilla_Clorofilla_Hint 4.4.3
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 64ba0f6d88d076b4b957abc373ad81f7, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Clorofilla_Clorofilla_Hint
+    4.4.3.asset
+  Name: Hint 4.4.3
+  Childs:
+  - {fileID: 11400000, guid: 0f0ff37e6750ce24b8cfd2bbb92ea8d1, type: 2}
+  - {fileID: 11400000, guid: 07306ea05aa02574fa9726e8fd70a15a, type: 2}
+  - {fileID: 11400000, guid: 2b84fbf4f3f42194bb8ec8e4e904d501, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo Riparazione Condotti_Riparazione Condotti_Hint 2.1.4_Medium
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: d30991434530e7c46833a4117ccbf188, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Riparazione Condotti_Riparazione
+    Condotti_Hint 2.1.4_Medium.asset
+  Name: Medium
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: d5f765251d0f74c41ab3627944e18a49, type: 3}
+  EventRef: event:/MARIA/Hints/2.1.4/2
+  Text: The pipes need to be locked before working

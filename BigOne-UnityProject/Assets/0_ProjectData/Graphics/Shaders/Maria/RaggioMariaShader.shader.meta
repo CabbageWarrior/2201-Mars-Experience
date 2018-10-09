@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b5dea655e3738ed4baf1f92fe1c87dd1
+timeCreated: 1518532179
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _MARIA_final_DefaultMaterial_AlbedoTransparency: {fileID: 2800000, guid: 4a64b319974a68f47afc59b4d9bd43e4,
+      type: 3}
+  - _MARIA_final_DefaultMaterial_Emission: {fileID: 2800000, guid: c9503a1ecc2cd6a47917b4b30e6150e8,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

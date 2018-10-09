@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0c68176e4a18754ea782fef390b4a65, type: 3}
+  m_Name: Ciclo Rocce_Rocce
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 512c213e67f5f8a479360a12e550d295, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Rocce_Rocce.asset
+  Name: Rocce
+  Childs:
+  - {fileID: 11400000, guid: fd6f7fa552682b249997f4bac4878d3e, type: 2}
+  - {fileID: 11400000, guid: 08d42a4e8e719eb4fb3d55b07c3b960b, type: 2}
+  - {fileID: 11400000, guid: efbbea08c8b172446bac2b2427d0a6f7, type: 2}
+  - {fileID: 11400000, guid: a8adc08184b0c3f42aa9b770b738aaa6, type: 2}
+  - {fileID: 11400000, guid: 719e20b4d7af5634695502391a8add4e, type: 2}

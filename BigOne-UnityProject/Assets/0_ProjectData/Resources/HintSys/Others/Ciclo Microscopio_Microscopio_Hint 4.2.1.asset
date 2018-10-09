@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5edf755b62361745a1ffee3f9af7bc6, type: 3}
+  m_Name: Ciclo Microscopio_Microscopio_Hint 4.2.1
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 34357532217c62b428bb047f78a1d040, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Microscopio_Microscopio_Hint
+    4.2.1.asset
+  Name: Hint 4.2.1
+  Childs:
+  - {fileID: 11400000, guid: c216a9959c5423e46b16246e97ad5d90, type: 2}
+  - {fileID: 11400000, guid: 2a58aa633782dd140a32c619824ba285, type: 2}
+  - {fileID: 11400000, guid: 2fcacfbb196bbfd4fb98fb9245e6524a, type: 2}

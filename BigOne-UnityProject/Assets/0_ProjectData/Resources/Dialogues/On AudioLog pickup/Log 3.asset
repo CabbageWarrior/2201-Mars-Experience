@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aeccccd9357665408f62b65052bbe33, type: 3}
+  m_Name: Log 3
+  m_EditorClassIdentifier: 
+  SpeakerName: Porter
+  Text: "w[0.5] I can\u2019t believe it: an entire year wasted, and despite all I\u2019ve
+    done, I achieved nothing. \r\nAll my studies and researches didn\u2019t bring
+    any results, it was a complete failure, I wasn\u2019t even able to grow musk and
+    now... now I\u2019m running out of time.\r\r w[0.5]"
+  AudioRef: event:/Audio Log Professor Porter/AudioLog Professore/Log3
+  Duration: 15
+  IsExecuted: 1

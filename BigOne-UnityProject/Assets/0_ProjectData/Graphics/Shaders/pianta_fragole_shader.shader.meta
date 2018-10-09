@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa56efe73d99d6e48a2af8f0c6e0859f
+timeCreated: 1514296066
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _prova_texturing_fragola_02Default_Normal: {fileID: 2800000, guid: 731174cf65cbde14da13c3e7936fafd6,
+      type: 3}
+  - _prova_texturing_fragola_02Default_AlbedoTransparency: {fileID: 2800000, guid: 952a3d195da65e84eba69a37a19997e0,
+      type: 3}
+  - _prova_texturing_fragola_02Default_MetallicSmoothness: {fileID: 2800000, guid: 64f8ec2d64fc7d54eb4d59c5685a0730,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

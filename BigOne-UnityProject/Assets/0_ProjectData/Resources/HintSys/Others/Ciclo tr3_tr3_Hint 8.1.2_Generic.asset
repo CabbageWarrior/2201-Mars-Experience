@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo tr3_tr3_Hint 8.1.2_Generic
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 29532001a5e59a042a359b59dcc6e842, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo tr3_tr3_Hint 8.1.2_Generic.asset
+  Name: Generic
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: 2a2d8d9d5f1da0f4bb9203182edb5f29, type: 3}
+  EventRef: event:/MARIA/Hints/8.1.2/1
+  Text: The door opened

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo Piante_Piante_Hint 4.3.2_Specific
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: fe6c97028648cfd449e948d6cb102d1e, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Piante_Piante_Hint 4.3.2_Specific.asset
+  Name: Specific
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: 6c841bb0ade1b4248bd0f23e6131416b, type: 3}
+  EventRef: event:/MARIA/Hints/4.3.2/3
+  Text: "Uhm\u2026 Try to take the note"

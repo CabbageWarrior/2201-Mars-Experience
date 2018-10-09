@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aeccccd9357665408f62b65052bbe33, type: 3}
+  m_Name: Log 1
+  m_EditorClassIdentifier: 
+  SpeakerName: Porter
+  Text: "w[0.5] Ahh, another day on the red planet.\r\nAt first, I was very skeptical
+    about the idea to continue my research on Mars, but I must  admit that I found
+    all of this so exciting that i changed my mind! This is a great opportunity to
+    bring some green on this otherwise red planet. \r w[0.5]"
+  AudioRef: event:/Audio Log Professor Porter/AudioLog Professore/Log
+  Duration: 15
+  IsExecuted: 1

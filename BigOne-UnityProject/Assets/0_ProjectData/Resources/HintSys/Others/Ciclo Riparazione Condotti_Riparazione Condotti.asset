@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0c68176e4a18754ea782fef390b4a65, type: 3}
+  m_Name: Ciclo Riparazione Condotti_Riparazione Condotti
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: a06dd61559aae6149a25e0ba31712f83, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Riparazione Condotti_Riparazione
+    Condotti.asset
+  Name: Riparazione Condotti
+  Childs:
+  - {fileID: 11400000, guid: 997322f95f9f2e843b64303d5832c64b, type: 2}
+  - {fileID: 11400000, guid: d84ebf1d731d3304a80ec7e4a3ac8577, type: 2}
+  - {fileID: 11400000, guid: 3ddb900648a79924c83fdff9c3030a03, type: 2}
+  - {fileID: 11400000, guid: d30991434530e7c46833a4117ccbf188, type: 2}
+  - {fileID: 11400000, guid: 5d29e748ee701c649b3ccca240f73d8d, type: 2}
+  - {fileID: 11400000, guid: d9cfe1ee21b02994f8ea7a2bc2be1d55, type: 2}

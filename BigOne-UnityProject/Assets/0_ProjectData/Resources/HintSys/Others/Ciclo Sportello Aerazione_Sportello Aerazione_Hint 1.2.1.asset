@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5edf755b62361745a1ffee3f9af7bc6, type: 3}
+  m_Name: Ciclo Sportello Aerazione_Sportello Aerazione_Hint 1.2.1
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 1c3f21e345193b74ea24ec63d768fe21, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Sportello Aerazione_Sportello
+    Aerazione_Hint 1.2.1.asset
+  Name: Hint 1.2.1
+  Childs:
+  - {fileID: 11400000, guid: b615f3086969c424f950b603deb8ca83, type: 2}
+  - {fileID: 11400000, guid: 586f7a6d506d8c246aec58bffad90e31, type: 2}
+  - {fileID: 11400000, guid: 3edc6750310cb7a419948a7542741ff2, type: 2}

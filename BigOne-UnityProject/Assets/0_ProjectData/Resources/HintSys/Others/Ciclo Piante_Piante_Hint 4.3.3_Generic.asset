@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b3cfb5601e1294ebb9b010eb4235ca, type: 3}
+  m_Name: Ciclo Piante_Piante_Hint 4.3.3_Generic
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 169df9633310e6348917dff724b46938, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Piante_Piante_Hint 4.3.3_Generic.asset
+  Name: Generic
+  Sent: 0
+  Childs: []
+  ClipSound: {fileID: 8300000, guid: 54d709cdf50790b47a5ae6f567b8ae26, type: 3}
+  EventRef: event:/MARIA/Hints/4.3.3/1
+  Text: It seems like this card has to be inserted somewhere

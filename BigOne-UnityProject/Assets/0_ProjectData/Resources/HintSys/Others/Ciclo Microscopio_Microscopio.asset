@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0c68176e4a18754ea782fef390b4a65, type: 3}
+  m_Name: Ciclo Microscopio_Microscopio
+  m_EditorClassIdentifier: 
+  Father: {fileID: 11400000, guid: 2b42eaa165fd9cd40aa51b53dd719399, type: 2}
+  Path: Assets/0_ProjectData/Resources/HintSys/Others/Ciclo Microscopio_Microscopio.asset
+  Name: Microscopio
+  Childs:
+  - {fileID: 11400000, guid: 8aa4ba95526a7fa44a50b3fcb2e11d2f, type: 2}
+  - {fileID: 11400000, guid: c633c684ad3bba141a14371aab5cd1df, type: 2}
